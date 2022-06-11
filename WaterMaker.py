@@ -1,5 +1,5 @@
 from PIL import Image
-import os, sys
+import os
 from time import sleep
 from os import system, name
 
